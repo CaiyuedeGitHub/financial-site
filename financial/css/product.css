@@ -1,0 +1,57 @@
+/*intro开始*/
+#product-intro{
+	height: 620px;
+	width: 1100px;
+}
+.intro-class{
+	height: 55px;
+	width: 500px;
+	background: #F1F1F1;
+	margin-left: 300px;
+	position: relative;
+	margin-top: 50px;
+}
+.intro-class li{
+	height: 55px;
+	width: 150px;
+	display: inline-block;
+	margin-left: 10px;
+}
+.intro-class a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 50px;
+	color: black;
+	font-weight: bold;
+}
+.intro-class a:hover{
+	background: #EA3939;
+}
+.product-image{
+	width: 1100px;
+	height: 460px;
+	margin-top: 80px;
+	margin-left: 30px;
+}
+.product-image li{
+	display: inline-block;
+	margin-right: 30px;
+	margin-left: 40px;
+	border:red  1px solid ;
+	width: 245px;
+	height: 375px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.product-image li:hover{
+	border:black 1px solid ;
+}
+.product-image p{
+	color: black;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 75px;
+}
+/*intro结束*/
